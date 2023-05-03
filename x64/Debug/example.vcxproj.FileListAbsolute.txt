@@ -1,0 +1,6 @@
+C:\Users\LDP\source\repos\example\x64\Debug\example.vcxproj.AssemblyReference.cache
+C:\Users\LDP\source\repos\example\x64\Debug\example.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\LDP\source\repos\example\x64\Debug\example.exe
+C:\Users\alvin\Desktop\example\x64\Debug\example.vcxproj.AssemblyReference.cache
+C:\Users\alvin\Desktop\example\x64\Debug\example.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\Desktop\example\x64\Debug\example.exe
